@@ -25,7 +25,7 @@ Even though we have the list games, i think it would be nice when we click on th
 
 Here's a walkthrough of implemented features:
 
-<img src='file:///private/var/folders/p2/97mkf1n16ygby5rgtnjgfdlr0000gn/T/4e244110badf2d1693a5e3821b934ec5/Kapture%202024-07-09%20at%2022.20.04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkMThyb3d2YTNtcHZvcGg5ZDk5dWQ0bDY3OWhjbXp1YXo3N3h3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuSjM0KChN23Tg58SW/giphy.gif'title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with KAP 
@@ -33,7 +33,7 @@ GIF created with KAP
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-/private/var/folders/p2/97mkf1n16ygby5rgtnjgfdlr0000gn/T/8cb3f198e21393251d729f83e539431a/Kapture 2024-07-09 at 22.10.15.gif
+
 ## Notes
 
 Describe any challenges encountered while building the app.
