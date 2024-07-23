@@ -25,7 +25,7 @@ Even though we have the list games, i think it would be nice when we click on th
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkMThyb3d2YTNtcHZvcGg5ZDk5dWQ0bDY3OWhjbXp1YXo3N3h3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuSjM0KChN23Tg58SW/giphy.gif'title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/947A7w2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with KAP 
